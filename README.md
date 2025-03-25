@@ -8,6 +8,9 @@ This project presents a **Machine Vision-Based Approach** for **Automated Fabric
 - Use image processing techniques to identify different types of defects.
 - Train machine learning models for classification and accuracy comparison.
 
+  ## Expected Impact
+This research will contribute to the textile industry by creating an automated system for defect detection, reducing the need for manual inspection, enhancing product quality, and minimizing waste. By integrating machine vision with machine learning, the project paves the way for more advanced, reliable, and scalable defect detection methods.
+
 ## Methodology
 ### 1. **Data Collection**
 - Fabric images were collected, including both **defective and defect-free** samples.
@@ -63,7 +66,9 @@ python train_model.py
 ## Citation
 If you use this research in your work, please cite it as:
 ```
-Shahidul Islam, "Automated Fabric Fault Detection Using Python and OpenCV: A Machine Vision-Based Approach," 2025.
+Shahidul Islam, "Automated Fabric Fault Detection Using Python and OpenCV: A Machine Vision-Based Approach," 2025.  
+*Note: I am currently working on publishing this research and the associated code in a peer-reviewed journal. Once published, I will update this citation with the journal reference.*
+
 ```
 
 ## License
